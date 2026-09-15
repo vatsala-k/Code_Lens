@@ -1,0 +1,17 @@
+Acme is a software company founded in 2018.
+
+The company has three main products: Atlas, Nova, and Pulse.
+
+Atlas is a project management platform designed for small teams.
+
+Nova is an analytics platform that helps companies understand
+their customer behavior.
+
+Pulse is a customer support platform that provides ticketing
+and live chat features.
+
+The engineering team is based in Bangalore and works primarily
+with Python and TypeScript.
+
+Acme uses PostgreSQL as its primary database and Redis for
+caching.
